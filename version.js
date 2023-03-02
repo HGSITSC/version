@@ -1,1 +1,1 @@
-version = [{0.0004}]
+let version = "0.0004"
