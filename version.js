@@ -1,1 +1,1 @@
-var version = 0.0004
+var version = "0.0004"
