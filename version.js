@@ -1,1 +1,1 @@
-let version = "0.0004"
+const version = "0.0004a"
