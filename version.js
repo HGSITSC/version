@@ -1,1 +1,1 @@
-const version = "0.0012b"
+const version = "0.0012c"
